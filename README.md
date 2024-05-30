@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennygal6
+- 👋 Hi, I’m @kennygal6 @MENTORNESS
 - 👀 I’m interested in Learning more.
 - 🌱 I’m currently learning how to improve my SQL.
 - 💞️ I’m looking to collaborate on data analysis.
